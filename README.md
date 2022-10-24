@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bantasyllwebdev
 - 👀 I’m interested in ...all things software related :)
-- 🌱 I’m currently learning ...JAVA
-- 💞️ I’m looking to collaborate on ...JAVA projects
+- 🌱 I’m currently learning ...JAVA and Software testing
+- 💞️ I’m looking to collaborate on ...JAVA projects and Software testing projects
 - 📫 How to reach me ...tea_kay@hotmail.co.uk
 
 <!---
